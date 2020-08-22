@@ -14,3 +14,16 @@ I had intended for this project to be a way that people can favorite tv shows an
 
 I think from here, I will look more into tv show apis or possibly switch to just using movies altogether. Either way, I think it would be best if I could get a Netflix or IMDB api working. Also, I didn’t implement user profile pictures. I added the gesture features that allow you to choose images from your Photos Library but commented that out, mostly because I wasn’t able to figure out how to store that in the database in time. Also, I was thinking of adding a feature to the tv show details screen, which would show all of the people you follow that have favorited that particular show. 
 
+## Feature Demos
+
+Accounts feature:
+
+
+Favoriting shows feature:
+
+
+Following friends feature:
+
+
+Other features:
+
