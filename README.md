@@ -18,12 +18,16 @@ I think from here, I will look more into tv show apis or possibly switch to just
 
 Accounts feature:
 
+<img src="demos/accounts.gif" height="500">
 
 Favoriting shows feature:
 
+<img src="demos/favoriting.gif" height="500">
 
 Following friends feature:
 
+<img src="demos/followers.gif" height="500">
 
 Other features:
 
+<img src="demos/other.gif" height="500">
