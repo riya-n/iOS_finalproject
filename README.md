@@ -8,7 +8,7 @@ Accounts feature:
 
 <img src="demos/accounts.gif" height="500">
 
-Favoriting shows feature:
+Favoriting movies feature:
 
 <img src="demos/favoriting.gif" height="500">
 
